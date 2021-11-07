@@ -34,7 +34,7 @@ Clone the repository
 
 ![Edit Student](http://bebaskripsi.000webhostapp.com/project-learn-wpu-larastu/edit-student.png?)
 
-_For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadjip/)._
+_For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadp/)._
 
 ## Development setup
 
@@ -71,7 +71,7 @@ You can now access the server at http://localhost:8000
 
 ## Meta
 
-Handoko Adji Pangestu – [@handokoadjip](https://www.instagram.com/handokoadjip/) – handokoadjipangestu@gmail.com
+Handoko Adji Pangestu – [@handokoadjip](https://www.instagram.com/handokoadp/) – handokoadjipangestu@gmail.com
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
